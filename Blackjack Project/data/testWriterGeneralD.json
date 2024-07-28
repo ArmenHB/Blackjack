@@ -1,0 +1,15 @@
+{
+    "min": 1,
+    "deck": [
+        {
+            "name": "Jack",
+            "suit": "Clubs",
+            "value": 10
+        },
+        {
+            "name": "Jack",
+            "suit": "Spades",
+            "value": 10
+        }
+    ]
+}

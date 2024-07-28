@@ -1,0 +1,17 @@
+{
+    "bet": 2222,
+    "bank": 1,
+    "inPlay": [
+        {
+            "name": "Jack",
+            "suit": "Clubs",
+            "value": 10
+        },
+        {
+            "name": "Jack",
+            "suit": "Spades",
+            "value": 10
+        }
+    ],
+    "value": 20
+}
